@@ -3,7 +3,7 @@
 #git command - to add git files on staging 
 #git add [file1name] [file2name] 
 # or
-#git add .  
+# git add .  
 #git commit -u(untracked files)
 #git commit -m "commit message"
 #git push origin main(branch name)
