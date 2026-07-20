@@ -8,3 +8,5 @@
 #git commit -m "commit message"
 #git push origin main(branch name)
 #git pull origin main(branch name) - to fetch data from internet and merge it with local repository
+
+print("git basics")
