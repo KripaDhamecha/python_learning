@@ -10,3 +10,4 @@
 #git pull origin main(branch name) - to fetch data from internet and merge it with local repository
 
 print("git basics")
+print("i am learning git basics")
